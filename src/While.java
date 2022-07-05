@@ -1,11 +1,9 @@
-public class Punto2 {
-    static void punto2(String[] args) {
-        int numeroWhile = 0;
+public class While{
+    public static void main(String[] args) {
+        int numeroWhile = 1;
         while (numeroWhile < 3) {
             numeroWhile++;
             System.out.println(numeroWhile);
         }
     }
 }
-
-
